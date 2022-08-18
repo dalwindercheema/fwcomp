@@ -1,5 +1,4 @@
 # Source code and data
-
 Materials & Methods
 -----------
 
@@ -11,6 +10,7 @@ Run ***Main_fw.py*** for finding the feature weights and parameters of classifie
 
 Run ***Main_def.py*** for finding the best solution from parametric search on unweighted data.
 
+<br />
 If you use the code, please cite the following paper:
 
 Dalwinder Singh and Birmohan Singh, "*[Sensitivity analysis of feature weighting for classification](https://link.springer.com/article/10.1007/s10044-022-01077-0)*", Pattern Analysis and Applications, 2022.
